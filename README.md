@@ -10,7 +10,7 @@ Refer to the following instructions on how to workaround this defect under Linux
 
 1. [Install keyd](https://github.com/rvaiya/keyd?tab=readme-ov-file#installation), pre-built packages are available for many Linux distributions.
 1. Install [the workaround-faulty-framework-laptop-delete-key.conf keyd configuration file](workaround-faulty-framework-laptop-delete-key.conf) to /etc/keyd _as root_.
-1. Ensure the keyd daemon is running by running the following command:
+1. Ensure the keyd daemon is running by running the following command _as root_:
 
     ```bash
     systemctl start keyd
