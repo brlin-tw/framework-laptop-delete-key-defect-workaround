@@ -16,7 +16,7 @@ Refer to the following instructions on how to workaround this defect under Linux
     systemctl start keyd
     ```
 
-1. Run the following command to reload the configuration file if the keyd daemon is already running:
+1. Run the following command _as root_ to reload the configuration file if the keyd daemon is already running:
 
     ```bash
     keyd reload
