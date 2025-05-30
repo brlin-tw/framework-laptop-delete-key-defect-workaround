@@ -25,7 +25,7 @@ Refer to the following instructions on how to workaround this defect under Linux
    for Debian-based distribution the keyd command is renamed as `keyd.rvaiya` so run the following command instead:
 
     ```bash
-    keyd.rvaiya
+    keyd.rvaiya reload
     ```
 
 1. Done!  Now when you presses the Shift+Backspace key combination it will function as the alternative Delete key!
