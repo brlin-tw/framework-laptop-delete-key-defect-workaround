@@ -34,9 +34,9 @@ Refer to the following instructions on how to workaround this defect under Linux
 
 The following materials are referenced during the development of this project:
 
-* [nrp's response of Broken delete key - like literally stopped working - Community Support - Framework Community](https://community.frame.work/t/broken-delete-key-like-literally-stopped-working/37313/85)
+* [nrp's response of Broken delete key - like literally stopped working - Community Support - Framework Community](https://community.frame.work/t/broken-delete-key-like-literally-stopped-working/37313/85)  
   Provides information regarding the keyboard defect.
-* [rvaiya/keyd: A key remapping daemon for linux.](https://github.com/rvaiya/keyd)
+* [rvaiya/keyd: A key remapping daemon for linux.](https://github.com/rvaiya/keyd)  
   The solutions that helped implmenting this workaround
-* [keyd/docs/keyd.scdoc at master · rvaiya/keyd](https://github.com/rvaiya/keyd/blob/master/docs/keyd.scdoc)
-  Explains the syntax of keyd's configuration file.
+* [keyd/docs/keyd.scdoc at master · rvaiya/keyd](https://github.com/rvaiya/keyd/blob/master/docs/keyd.scdoc)  
+  Explains the syntax of keyd's configuration  file.
