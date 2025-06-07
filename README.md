@@ -28,7 +28,7 @@ Refer to the following instructions on how to workaround this defect under Linux
     keyd.rvaiya reload
     ```
 
-1. Done!  Now when you presses the Shift+Backspace key combination it will function as the alternative Delete key!
+1. Done!  Now when you presses the LeftControl+Backspace key combination it will function as the alternative Delete key!
 
 ## References
 
@@ -40,3 +40,5 @@ The following materials are referenced during the development of this project:
   The solutions that helped implmenting this workaround
 * [keyd/docs/keyd.scdoc at master · rvaiya/keyd](https://github.com/rvaiya/keyd/blob/master/docs/keyd.scdoc)  
   Explains the syntax of keyd's configuration  file.
+* [rightcontrol emits leftcontrol by default. · Issue #114 · rvaiya/keyd](https://github.com/rvaiya/keyd/issues/114)  
+  Explains why keyd remaps right keys to their left corresponding keys by default, and how to override this behavior.
